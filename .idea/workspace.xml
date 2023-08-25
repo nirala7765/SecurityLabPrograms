@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="785c5303-d5d9-42aa-8675-be37020fa11e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EXp2A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.playfaircipher">
+  <component name="RunManager" selected="Application.TransCipher">
+    <configuration name="TransCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransCipher" />
+      <module name="SecurityLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="cipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cipher" />
       <module name="SecurityLab" />
@@ -50,8 +57,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="railFenceCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="railFenceCipher" />
+      <module name="SecurityLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TransCipher" />
+        <item itemvalue="Application.railFenceCipher" />
         <item itemvalue="Application.playfaircipher" />
         <item itemvalue="Application.cipher" />
       </list>
